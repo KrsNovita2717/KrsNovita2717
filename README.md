@@ -6,11 +6,11 @@ Hi, I’m @KrsNovita2717. I am a student at Palangka Raya University.
 
 I’m currently learning to be web developer.
 
-📫 How to reach me 
+📫 How to reach me
 
-https://twitter.com/Krs_Novita2717
+[LinkedIn](www.linkedin.com/in/novita-kristiana-9b0679298)
 
-www.linkedin.com/in/novita-kristiana-9b0679298
+[Instagram](https://www.instagram.com/krs_novita1722/)
 
 <!---
 KrsNovita2717/KrsNovita2717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
